@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.mhover ul li a:hover{
+    color: #ED2027 !important;
+}
+.descol h2{
+    color: #005aaa;
+}
+.card:hover{
+    background-color: yellow;
+    transition: 0.9s all ease;
+}
+.service_text h2{
+    color: #005aaa !important;
+}
+.branch_section{
+    background-color: #005AAA;
+}
